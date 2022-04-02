@@ -95,6 +95,7 @@ public class Main {
     //7. Fibonacci f
     public static int getFibonacci(int f){
         if(f<2) return f;
+        //sdgk yd-xlvs
         int fMinus2 =0;
         int fMinus1 =1;
         int fRes =0;
